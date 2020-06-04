@@ -7,3 +7,70 @@ Find the notebook and the HTML file for the same in the repository.
 
 If you want to load the model to run, you will need to access a GPU/ use torch.load('model.pt',map_location=torch.device('cpu'))
 
+
+## Example Script Generated 
+
+elaine: wit 1937 vandelay.
+
+jerry: i think it's the first way.
+
+george: i can't help you.
+
+elaine: well, it's just the one.
+
+hoyt: so, what are you doing here?
+
+george: oh, yeah. i don't know. i think it's a good time.
+
+kramer: hey!
+
+elaine:(pointing) hey, hey. hey jerry.
+
+elaine:(coming up) hey, hey, hey!
+
+elaine: hey!
+
+elaine:(coming on) oh!!!!
+
+jerry:(annoyed) i thought you were in snitzer's bakery.
+
+jerry: oh!
+
+jerry: what is it?
+
+jerry: yes.
+
+elaine: what?
+
+hoyt: you know what i think?
+
+elaine: i thought you were going to get hurt. i mean i was just talking about a little conversation, and i don't have the" wave"...
+
+george: i thought we were going to write a little burning- bucket, but, you know, i was wondering if i had a little crush to the other day i could cross myself, i was planning a lot of moisture.
+
+jerry: so you got a steak removed?
+
+george: i think it's not letting you feel like that i was just trying to create the devil.(she turns into his apartment)
+
+george:(exasperated) oh, that's right!
+
+jerry: hey.
+
+elaine: oh....
+
+jerry: oh, i think it's the most vice ones.. i was just standing in a while to the other day.
+
+kramer: i can't believe it! i'm gonna bust up the phone in the dryer.
+
+hoyt: so, what do you think about?
+
+jerry: i was thinking about this thing.
+
+george:(exasperated) yeah.
+
+hoyt: and you were talking to me, and the victim is a cheater.
+
+elaine: what do you mean?
+
+elaine: well,
+
